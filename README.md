@@ -4,10 +4,13 @@ Displays a palimpsest—a generated specimen of the 'average' shapes of numbers 
 ## Examples
 Some images! These were generated using almost 3500 fonts, excluding more unusual fonts.
 
-![All fonts](https://github.com/whykatherine/palimpsest/blob/master/img/all.png)
-![Lowercase f](https://github.com/whykatherine/palimpsest/blob/master/img/lower-f.png) ![Lowercase l](https://github.com/whykatherine/palimpsest/blob/master/img/lower-l.png) ![Uppercase I](https://github.com/whykatherine/palimpsest/blob/master/img/upper-I.png)
+![All fonts](https://raw.githubusercontent.com/whykatherine/palimpsest/master/img/all.png)
+
+Lowercase `f` | Lowercase `l` | Uppercase `I`
+--- | --- | ---
+![Lowercase f](https://raw.githubusercontent.com/whykatherine/palimpsest/master/img/all/lower-f.png) | ![Lowercase l](https://raw.githubusercontent.com/whykatherine/palimpsest/master/img/all/lower-l.png) | ![Uppercase I](https://raw.githubusercontent.com/whykatherine/palimpsest/master/img/all/upper-I.png)
 
 ## Ideas
 * Analyse percentage of overlap for each character to determine the most and least 'average' characters
 * Design an 'average' font based on the palimpsest
-* Generate palimpsests using fonts created by year to identify any progression in type trends over time
+* Generate palimpsests using fonts created by year to identify any progression in type trends over time (thanks [Rohan Jhunja](https://www.instagram.com/rohanjhunja/) for the [idea](https://www.instagram.com/p/BdKSAc5He7I/?taken-by=kayserifserif)!)
