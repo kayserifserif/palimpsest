@@ -4,11 +4,11 @@ Displays a palimpsest—a generated specimen of the 'average' shapes of numbers 
 ## Examples
 Some images! These were generated using almost 3500 fonts, excluding more unusual fonts.
 
-![All fonts](https://raw.githubusercontent.com/whykatherine/palimpsest/master/img/all.png)
+![All fonts](img/all.png)
 
 Lowercase `f` | Lowercase `l` | Uppercase `I`
 --- | --- | ---
-![Lowercase f](https://raw.githubusercontent.com/whykatherine/palimpsest/master/img/all/lower-f.png) | ![Lowercase l](https://raw.githubusercontent.com/whykatherine/palimpsest/master/img/all/lower-l.png) | ![Uppercase I](https://raw.githubusercontent.com/whykatherine/palimpsest/master/img/all/upper-I.png)
+![Lowercase f](img/all/lower-f.png) | ![Lowercase l](img/all/lower-l.png) | ![Uppercase I](img/all/upper-I.png)
 
 ## Ideas
 * Analyse percentage of overlap for each character to determine the most and least 'average' characters
